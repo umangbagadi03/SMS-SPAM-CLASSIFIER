@@ -1,5 +1,7 @@
 # SMS-SPAM-CLASSIFIER
 
+####-Umang Bagadi
+
 Libraries used : Pandas, scikit learn and nltk.
 
 Classification algorithm used: Multinomial Naive Bayes
