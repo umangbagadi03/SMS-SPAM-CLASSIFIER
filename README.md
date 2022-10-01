@@ -1,6 +1,6 @@
 # SMS-SPAM-CLASSIFIER
 
-####-Umang Bagadi
+-Umang Bagadi
 
 Libraries used : Pandas, scikit learn and nltk.
 
